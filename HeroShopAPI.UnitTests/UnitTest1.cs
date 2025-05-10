@@ -9,6 +9,7 @@ namespace HeroShopAPI.UnitTests
         [TestMethod]
         public void TestMethod1()
         {
+            
         }
     }
 }

@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeroShopAPI.Data", "HeroSho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroShopAPI.Common", "HeroShopAPI.Common\HeroShopAPI.Common.csproj", "{607AE25D-1879-4CF5-895E-4183BC450265}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroShopAPI.UnitTests", "HeroShopAPI.UnitTests\HeroShopAPI.UnitTests.csproj", "{9F2A58B9-0A51-47CD-8D28-F767E7320FE5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroShopAPI.Tests", "HeroShopAPI.Tests\HeroShopAPI.Tests.csproj", "{69C1C89D-9FCD-4FA9-90FB-41C81397E083}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{607AE25D-1879-4CF5-895E-4183BC450265}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{607AE25D-1879-4CF5-895E-4183BC450265}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{607AE25D-1879-4CF5-895E-4183BC450265}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9F2A58B9-0A51-47CD-8D28-F767E7320FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9F2A58B9-0A51-47CD-8D28-F767E7320FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9F2A58B9-0A51-47CD-8D28-F767E7320FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9F2A58B9-0A51-47CD-8D28-F767E7320FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C1C89D-9FCD-4FA9-90FB-41C81397E083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C1C89D-9FCD-4FA9-90FB-41C81397E083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C1C89D-9FCD-4FA9-90FB-41C81397E083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C1C89D-9FCD-4FA9-90FB-41C81397E083}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

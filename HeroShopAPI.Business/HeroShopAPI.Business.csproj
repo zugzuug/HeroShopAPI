@@ -8,6 +8,11 @@
 
   <ItemGroup>
     <ProjectReference Include="..\HeroShopAPI.Common\HeroShopAPI.Common.csproj" />
+    <ProjectReference Include="..\HeroShopAPI.Data\HeroShopAPI.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
   </ItemGroup>
 
 </Project>

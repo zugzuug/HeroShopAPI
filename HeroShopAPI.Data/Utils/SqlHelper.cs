@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HeroShopAPI.Data
+namespace HeroShopAPI.Data.Utils
 {
     public class SqlHelper
     {
@@ -38,7 +38,7 @@ namespace HeroShopAPI.Data
                 }
 
 
-                
+
             }
             return new object[] { "Item1", "Item2", "Item3" };
         }
