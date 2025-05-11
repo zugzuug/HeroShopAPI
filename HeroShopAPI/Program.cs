@@ -18,6 +18,9 @@ if (app.Environment.IsDevelopment())
 
 app.UseAuthorization();
 
+//This enables the use of static files in the wwwroot folder
+app.UseStaticFiles();
+
 app.MapControllers();
 
 app.Run();

@@ -7,7 +7,7 @@
     "title": "Sturdy Backpack",
     "description": "Increases inventory management of useless junk you pick up for no reason.",
     "disclaimer": "*Does not increase your ability to carry it.",
-    "iconUrl": "http://localhost:4200/resources/images/backpack.png",
+    "iconUrl": "http://192.168.1.3:5003/resources/images/backpack.png",
     "price": 5,
     "weight": 1.8
   },
@@ -19,7 +19,7 @@
     "title": "Wizard's Hat",
     "description": "A comfortable Wizard's Hat that should keep the rain off of your head.",
     "disclaimer": "*Does not talk.",
-    "iconUrl": "http://localhost:4200/resources/images/wizards_hat.png",
+    "iconUrl": "http://192.168.1.3:5003/resources/images/wizards_hat.png",
     "price": 6,
     "weight": 0.7
   },
@@ -30,9 +30,8 @@
     "category": "Fighter",
     "title": "Knight's Shield",
     "description": "Possibly ornamental but should block something, maybe.",
-    "disclaimer": "*No returns.",
-     "localIconUrl": "http://localhost:4200/resources/images/knights_shield.png",
-    "iconUrl": "http://localhost:4200/resources/images/knights_shield.png",
+    "disclaimer": "*No returns.",    
+    "iconUrl": "http://192.168.1.3:5003/resources/images/knights_shield.png",
     "price": 8,
     "weight": 2.4
   },
@@ -44,7 +43,7 @@
     "title": "Mysterious Satchel",
     "description": "Pawned by the last Hero, you can keep whatever is inside.",
     "disclaimer": "*Contents may vary.",
-    "iconUrl": "http://localhost:4200/resources/images/mysterious_satchel.png",
+    "iconUrl": "http://192.168.1.3:5003/resources/images/mysterious_satchel.png",
     "price": 4,
     "weight": 1.1
   },
@@ -56,7 +55,7 @@
     "title": "Short Sword",
     "description": "So short you can get in close enough to smell the breath of your next Goblin.",
     "disclaimer": "*Mint not included.",
-    "iconUrl": "http://localhost:4200/resources/images/short_sword.png",
+    "iconUrl": "http://192.168.1.3:5003/resources/images/short_sword.png",
     "price": 7,
     "weight": 2.0
   },
@@ -68,7 +67,7 @@
     "title": "Spellbook",
     "description": "It's supposed to contain a spell to remove body odor, if you can discern the language.",
     "disclaimer": "*Interpreter services currently unavailable.",
-    "iconUrl": "http://localhost:4200/resources/images/spellbook.png",
+    "iconUrl": "http://192.168.1.3:5003/resources/images/spellbook.png",
     "price": 10,
     "weight": 0.5
   },
@@ -80,7 +79,7 @@
     "title": "Blank Scroll",
     "description": "A blank scroll for you to write down whatever is noodling around in your head.",
     "disclaimer": "*Ink sold separately.",
-    "iconUrl": "http://localhost:4200/resources/images/scroll.png",
+    "iconUrl": "http://192.168.1.3:5003/resources/images/scroll.png",
     "price": 3,
     "weight": 1.0
   },
@@ -92,7 +91,7 @@
     "title": "Health Potion",
     "description": "A health potion so potent it comes with a chaser.",
     "disclaimer": "*Chaser included.",
-    "iconUrl": "http://localhost:4200/resources/images/health_potion.png",
+    "iconUrl": "http://192.168.1.3:5003/resources/images/health_potion.png",
     "price": 6,
     "weight": 1.0
   }
