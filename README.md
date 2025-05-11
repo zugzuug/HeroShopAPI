@@ -1,7 +1,7 @@
 # HeroSHop
 
 A .NET 8 C# project designed to be the backend API for any frontend WebUI. 
-It provides access to an inventory of items and related data to support a Fantasy shop like you would see in an RPG. 
+It provides access to an inventory of items and related data to support a Fantasy shop like you would see in an RPG.
 Initially there are Hero Classes (All, Fighter, Mage) and Items (e.g. sword, spellbook, etc) to retrieve and display.
 
 # Item Inventory API
